@@ -28,7 +28,7 @@ Download the new [StudioPlusComplete](https://github.com/FlKo/LazarusDockedDeskt
 So what do we need?
 - A computer ;-)
 - A running copy of *Windows™*, *Mac OS X™* or *Linux*.
-- An installation of [Lazarus](http://www.lazarus-ide.org) (preferably version 1.6 or newer).
+- An installation of [NewPascal](http://www.newpascal.org/download.html).
 - The installation of the packages **AnchorDockingDsgn** and **sparta_DockedFormEditor** which are already included in Lazarus.
 - The import of one or more of the **Lazarus...*Docked*...Desktops** from this repository.
 
